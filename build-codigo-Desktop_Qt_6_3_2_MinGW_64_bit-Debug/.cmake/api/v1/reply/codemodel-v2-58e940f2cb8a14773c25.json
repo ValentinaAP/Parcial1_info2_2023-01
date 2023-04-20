@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6d7f3d8e55a7fdc27939.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "codigo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "codigo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-codigo-Debug-958915aec96cc49910c0.json",
+					"name" : "codigo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/UDEA/2023-1/Informatica-II/Teoria informatica II/Parcial I/build-codigo-Desktop_Qt_6_3_2_MinGW_64_bit-Debug",
+		"source" : "D:/UDEA/2023-1/Informatica-II/Teoria informatica II/Parcial I/codigo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
